@@ -1,0 +1,1 @@
+A project of highly imbalanced dataset based on Anomaly detection where the intent is to detect the fraud from out of 1 in 10000 cases. This is the project where regular imbalance techniques wont work and had to deploy Isolation forest model which works on such extreme cases.n
