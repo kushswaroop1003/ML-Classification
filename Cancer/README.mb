@@ -1,1 +1,1 @@
-
+A relatively simple project. Its the case of imbalanced dataset. Predicted the positive and negative class using various models. KNN performed well here as its the case of limited dataset. Will not find much EDA in this project as the intent was to check the model performance
