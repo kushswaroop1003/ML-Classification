@@ -1,2 +1,3 @@
 A project on identifying patter whether customer will make the purchase or not. I worked exclusively to gain knowldege on business domain, updated myself with several terminologies of the business, this helped me overall to understand the business, get into the details of various information and build a model to predict the result.Used various visual libraries exclusively pyplot.
 Its also a case of imbalanced dataset.
+To handle imbalace I used smote technique
